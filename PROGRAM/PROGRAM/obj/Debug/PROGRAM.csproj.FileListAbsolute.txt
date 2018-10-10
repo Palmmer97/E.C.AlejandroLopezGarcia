@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\bin\Debug\PROGRAM.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\bin\Debug\PROGRAM.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\bin\Debug\PROGRAM.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\obj\Debug\PROGRAM.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\obj\Debug\PROGRAM.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\PROGRAM\PROGRAM\obj\Debug\PROGRAM.pdb
